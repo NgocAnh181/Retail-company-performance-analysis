@@ -57,10 +57,7 @@ Dữ liệu thuộc về một **công ty bán lẻ tại Hoa Kỳ**, chuyên ki
 
 - Ở cả ba nhóm ngành đều ghi nhận số lượng khách hàng giảm dần qua các năm.
 - Số khách hàng quay lại luôn cao hơn khách hàng mới. Trong đó, khách hàng quay lại tăng dần qua từng năm chứng tỏ mức độ hài lòng của họ đối với sản phẩm, dịch vụ của doanh nghiệp. Ngược lại, số lượng khách hàng mới lại giảm dần qua từng năm, nhưng đến khoảng 07/2022 trở về sau khách hàng mới gần như biến mất. 
-
-
-
-- 💡 At Risk + Champions + Loyal đóng góp tới 61.37% tổng doanh thu.
+- 💡 At Risk, Champions và Loyal đóng góp đến 61,37% doanh thu (trong đó At Risk chiếm 25,11%). Ngược lại, New Customers và Lost Customers mang lại chưa đến 1% doanh thu.
 
 **Đề xuất:**
 - Đối với nhóm **At Risk**: Áp dụng chiết khấu linh hoạt theo lịch sử mua hàng (ví dụ: càng từng chi tiêu nhiều, càng được ưu đãi lớn).
