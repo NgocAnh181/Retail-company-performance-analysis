@@ -9,10 +9,10 @@ Dữ liệu thuộc về một **công ty bán lẻ tại Hoa Kỳ**, chuyên ki
 
 ## 🎯 Mục Tiêu Dự Án
 
-- 📊 Trực quan hóa dữ liệu để theo dõi hiệu suất kinh doanh.
-- 🧠 Tối ưu quản lý danh mục sản phẩm & phân bổ hợp lý.
-- 🧍‍♂️ Phân khúc khách hàng để xây dựng chiến lược tiếp cận hiệu quả.
-- 🚚 Theo dõi hiệu quả giao hàng theo khu vực & thời gian.
+- Trực quan hóa dữ liệu, giúp doanh nghiệp dễ dàng theo dõi hiệu suất kinh doanh.
+- Tối ưu hóa việc quản lý danh mục sản phẩm, tìm ra những sản phẩm chủ lực nhằm  phân bổ danh mục một cách hợp lý.
+- Phân khúc khách hàng, tìm ra những khách hàng tiềm năng để xây dựng chiến lược tiếp cận khách hàng một cách hiệu quả.
+- Theo dõi hiệu quả giao hàng theo từng phương thức, khu vực và thời gian nhằm tối ưu hiệu quả vận hành, nâng cao tỷ lệ giao đúng hạn.
 
 ---
 
