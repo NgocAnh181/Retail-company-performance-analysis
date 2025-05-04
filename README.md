@@ -79,6 +79,8 @@ Dữ liệu thuộc về một **công ty bán lẻ tại Hoa Kỳ**, chuyên ki
 | ❌ Lost                      | 111, 112, 121, 131, 141, 151                                    | Là những khách hàng đã rất lâu không quay lại, tần suất mua và giá trị giỏ hàng cũng rất thấp. Nhóm này thường là những khách hàng có hành vi mua tìm kiếm sự đa dạng hoặc chỉ mua suy nhất một lần để trải nghiệm và so sánh với các sản phẩm/dịch vụ khác.                      |
 
 📚 **Nguồn tham khảo**: Tomorrow Marketers
+
+
 **Đề xuất:**
 - Đối với nhóm **At Risk**: Áp dụng chiết khấu linh hoạt theo lịch sử mua hàng (ví dụ: càng từng chi tiêu nhiều, càng được ưu đãi lớn).
 - **Champions, Loyal và Can’t lose them**: Mời họ vào chương trình khách hàng thân thiết VIP, cung cấp các đặc quyền như được truy cập trước các sản phẩm mới, flash sale riêng.
