@@ -19,8 +19,8 @@ Dữ liệu thuộc về một **công ty bán lẻ tại Hoa Kỳ**, chuyên ki
 ## 🛠️ Công Cụ & Phương Pháp Sử Dụng
 
 - **Công cụ**: Power BI, Power Query, DAX
-- **Kỹ thuật**: Data Modeling, Conditional Formatting, Sparklines
-- RFM Analysis, New&Returning Customer Analysis, Delivery Performance Analysis, Data Visualization.
+- **Kỹ thuật**: Data Modeling, Data Visualization, Conditional Formatting, Sparklines
+- RFM Analysis, New&Returning Customer Analysis, Delivery Performance Analysis.
 
 ---
 
