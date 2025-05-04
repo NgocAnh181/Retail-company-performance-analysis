@@ -59,6 +59,25 @@ Dữ liệu thuộc về một **công ty bán lẻ tại Hoa Kỳ**, chuyên ki
 - Số khách hàng quay lại luôn cao hơn khách hàng mới. Trong đó, khách hàng quay lại tăng dần qua từng năm chứng tỏ mức độ hài lòng của họ đối với sản phẩm, dịch vụ của doanh nghiệp. Ngược lại, số lượng khách hàng mới lại giảm dần qua từng năm, nhưng đến khoảng 07/2022 trở về sau khách hàng mới gần như biến mất. 
 - 💡 At Risk, Champions và Loyal đóng góp đến 61,37% doanh thu (trong đó At Risk chiếm 25,11%). Ngược lại, New Customers và Lost Customers mang lại chưa đến 1% doanh thu.
 
+
+---
+
+## 📊 Phân Khúc Khách Hàng Theo RFM
+
+| 🧩 Phân khúc khách hàng        | 🧮 Các nhóm điểm RFM                                             | 📝 Đặc điểm                                                                                                                             |
+|-------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| 🏆 Champions                  | 555, 554, 544, 545, 454, 455, 445                                | Khách hàng mới giao dịch, mua thường xuyên và chi tiêu nhiều nhất. Rất trung thành, hào phóng và có khả năng mua tiếp trong tương lai. |
+| 💖 Loyal Customers            | 543, 444, 435, 355, 354, 345, 344, 335                           | Chi tiêu trung bình – khá nhưng mua hàng rất thường xuyên.                                                                              |
+| 🌱 Potential Loyalist         | 553, 551, 552, 541, 542, 533, 532, 531, 452, 451, ... (tiếp tục) | Giao dịch gần đây, chi tiêu trung bình khá và đã mua hàng nhiều lần.                                                                  |
+| 🆕 Recent Customers           | 512, 511, 422, 421, 412, 411, 311                                | Mới mua gần đây, giá trị giỏ hàng thấp và không mua thường xuyên.                                                                     |
+| 🌟 Promising                  | 525, 524, 523, 522, 521, 515, ... (tiếp tục)                     | Mới mua gần đây, sức mua lớn nhưng chưa thường xuyên.                                                                                   |
+| ⚠️ Customers Needing Attention | 535, 534, 443, 434, 343, 334, 325, 324                           | Tần suất và giá trị giỏ hàng khá nhưng gần đây không quay lại mua hàng.                                                                |
+| 😴 About To Sleep             | 331, 321, 312, 221, 213                                          | Đã lâu chưa mua hàng, trước đó mua không thường xuyên và giá trị thấp.                                                                |
+| 🛑 At Risk                    | 255, 254, 245, 244, 253, 252, ... (tiếp tục)                     | Đã lâu không quay lại, trước đó từng mua thường xuyên và chi tiêu trung bình khá.                                                     |
+| 🚨 Can’t Lose Them            | 155, 154, 144, 214, 215, 115, 114, 113                           | Đã rất lâu không quay lại, từng chi tiêu rất lớn và thường xuyên. Cần hành động để giữ chân.                                           |
+| 🧊 Hibernating                | 332, 322, 231, 241, 251, ... (tiếp tục)                          | Đã khá lâu không quay lại, tần suất thấp và giá trị giỏ hàng không cao.                                                                |
+| ❌ Lost                      | 111, 112, 121, 131, 141, 151                                    | Rất lâu không quay lại, tần suất và chi tiêu thấp. Thường chỉ mua để thử hoặc so sánh, không có ý định quay lại.                      |
+
 **Đề xuất:**
 - Đối với nhóm **At Risk**: Áp dụng chiết khấu linh hoạt theo lịch sử mua hàng (ví dụ: càng từng chi tiêu nhiều, càng được ưu đãi lớn).
 - **Champions, Loyal và Can’t lose them**: Mời họ vào chương trình khách hàng thân thiết VIP, cung cấp các đặc quyền như được truy cập trước các sản phẩm mới, flash sale riêng.
