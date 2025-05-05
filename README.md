@@ -1,4 +1,6 @@
-# 🏢 Về Công Ty
+# Retail company performance analysis
+
+## 🏢 Về Công Ty
 
 Dữ liệu thuộc về một **công ty bán lẻ tại Hoa Kỳ**, chuyên kinh doanh các sản phẩm thuộc 3 nhóm ngành chính:
 - 💻 Technology
